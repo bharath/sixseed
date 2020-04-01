@@ -1,0 +1,14 @@
+/* -- Customizer CSS
+--------------------------------------------- */
+
+#sub-accordion-section-sixseed_gutenberg_options .customize-control-description {
+	margin-bottom: 0;
+	line-height: 1.5;
+	font-style: normal;
+}
+
+#sub-accordion-section-sixseed_gutenberg_options code,
+#sub-accordion-section-sixseed_color_options code,
+#sub-accordion-section-sixseed_font_options code {
+	font-size: 12px;
+}
